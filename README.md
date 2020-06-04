@@ -1,5 +1,5 @@
-# buscaminas-side-project-ttt
-buscaminas-side-project-ttt
+# Buscaminas SideProject
+Buscaminas implementado con Maven y Java
 
 |  **#** | **Código** | **Apellidos, Nombre** | **% Trabajo** |
 | :---: | :---: | :---: | :---: |

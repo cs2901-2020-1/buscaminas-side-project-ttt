@@ -1,0 +1,298 @@
+
+'cs_utec.cs2901.Ejecucion#correrJuego()Vg
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (""11*ù
+2g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java$ $(ÿü
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java$ $(-
+%30java.lang.Boolean">cs_utec.cs2901.Buscaminas#juegoFinalizado()Ljava/lang/Boolean;*$
+"
+juegocs_utec.cs2901.Buscaminas2juegoFinalizado()*	
+7
+0
+1*Ø
+3g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java" "(äá
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java" "()
+%29void".cs_utec.cs2901.Buscaminas#mostrarTodasMinas()V*$
+"
+juegocs_utec.cs2901.Buscaminas2mostrarTodasMinas()*
+0*ö
+4g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java! !(ÿü
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java! !(,
+%28java.lang.Boolean">cs_utec.cs2901.Buscaminas#juegoFinalizado()Ljava/lang/Boolean;*$
+"
+juegocs_utec.cs2901.Buscaminas2juegoFinalizado()*
+2
+3*í
+5g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (–
+“
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (
+%25java.io.PrintStream"__id*
+""ùö
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (2
+%26void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%25java.io.PrintStream*
+Â¡Has ganado!2println(Ljava/lang/String;)äá
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java ()
+%27void".cs_utec.cs2901.Buscaminas#mostrarTodasMinas()V*$
+"
+juegocs_utec.cs2901.Buscaminas2mostrarTodasMinas()*
+0*î
+6g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java* (/÷ô
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java* (=
+%24java.lang.Boolean":cs_utec.cs2901.Buscaminas#juegoGanado()Ljava/lang/Boolean;*$
+"
+juegocs_utec.cs2901.Buscaminas2juegoGanado()*
+4
+5*ö
+7g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (ÿü
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (&
+%23java.lang.Boolean">cs_utec.cs2901.Buscaminas#juegoFinalizado()Ljava/lang/Boolean;*$
+"
+juegocs_utec.cs2901.Buscaminas2juegoFinalizado()*
+4
+6*§
+9g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (ìé
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (
+%20void"*cs_utec.cs2901.Buscaminas#inicializar(II)V*$
+"
+juegocs_utec.cs2901.Buscaminas*
+""*
+""2inicializar(II)ÜÙ
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (
+%21void"*cs_utec.cs2901.Buscaminas#detectarMinas()V*$
+"
+juegocs_utec.cs2901.Buscaminas2detectarMinas()âß
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java ( 
+%22void"-cs_utec.cs2901.Buscaminas#actualizarMatriz()V*$
+"
+juegocs_utec.cs2901.Buscaminas2actualizarMatriz()*
+7
+0*Í
+10g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (âß
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (!
+%15void"*cs_utec.cs2901.Buscaminas#generarMinas(I)V*$
+"
+juegocs_utec.cs2901.Buscaminas*22generarMinas(I)À
+½
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (
+%16java.lang.String[][]"__id*/*-
+"
+juegocs_utec.cs2901.Buscaminas"
+fieldº
+·
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (
+%17java.lang.String[]"
+__arrayGet*
+
+%16java.lang.String[][]*
+""­
+ª
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (%
+%18"
+__arraySet*
+
+%17java.lang.String[]*
+""*
+   Ã
+À
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (
+%19"
+__arraySet*
+
+%16java.lang.String[][]*
+""*
+
+%17java.lang.String[]*
+9*Ø
+11g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (+¨¥
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java ()
+%0cs_utec.cs2901.Buscaminas"cs_utec.cs2901.Buscaminasº
+·
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (+
+%1"#cs_utec.cs2901.Buscaminas#<init>()V*!
+
+%0cs_utec.cs2901.Buscaminas¹
+¶
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (,"
+juegocs_utec.cs2901.Buscaminas"__id*!
+
+%0cs_utec.cs2901.BuscaminasáÞ
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java	 	(
+
+%2void"*cs_utec.cs2901.Buscaminas#generarMinas(I)V*$
+"
+juegocs_utec.cs2901.Buscaminas*22generarMinas(I)áÞ
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java
+ 
+( 
+
+%3void"-cs_utec.cs2901.Buscaminas#actualizarMatriz()V*$
+"
+juegocs_utec.cs2901.Buscaminas2actualizarMatriz()•
+’
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java# (,
+%4java.io.InputStream"__id*
+""˜•
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java ("
+%5java.util.Scanner"java.util.ScannerÜ
+Ù
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (-
+%6"0java.util.Scanner#<init>(Ljava/io/InputStream;)V*
+
+%5java.util.Scanner*
+
+%4java.io.InputStream¨
+¥
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (.
+scanjava.util.Scanner"__id*
+
+%5java.util.Scanner•
+’
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (
+%7java.io.PrintStream"__id*
+""€ý
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (6
+
+%8void".java.io.PrintStream#print(Ljava/lang/String;)V*
+
+%7java.io.PrintStream*
+Ingresar coordenada en X: 2print(Ljava/lang/String;)½º
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (	
+%9int"java.util.Scanner#nextInt()I*
+
+scanjava.util.Scanner2	nextInt()–
+“
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (
+%10java.io.PrintStream"__id*
+""‚ÿ
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (6
+%11void".java.io.PrintStream#print(Ljava/lang/String;)V*
+
+%10java.io.PrintStream*
+Ingresar coordenada en Y: 2print(Ljava/lang/String;)¾»
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (
+
+%12int"java.util.Scanner#nextInt()I*
+
+scanjava.util.Scanner2	nextInt()Œ
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (%
+%13java.lang.String">cs_utec.cs2901.Buscaminas#obtenerCasilla(II)Ljava/lang/String;*$
+"
+juegocs_utec.cs2901.Buscaminas*
+""*
+""2obtenerCasilla(II)êç
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java (3
+%14boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%13java.lang.String*
+   2equals(Ljava/lang/Object;)*
+9
+10*…
+0 "~
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java0 0(
+implicit return*¼
+1g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java% %(–
+“
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java% %(
+%31java.io.PrintStream"__id*
+""‚ÿ
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java% %(>
+%32void".java.io.PrintStream#print(Ljava/lang/String;)V*
+
+%31java.io.PrintStream*
+Ingresar coordenada en X: 2print(Ljava/lang/String;)¾»
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java& &("
+
+%33int"java.util.Scanner#nextInt()I*
+
+scanjava.util.Scanner2	nextInt()–
+“
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java' '(
+%34java.io.PrintStream"__id*
+""‚ÿ
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java' '(>
+%35void".java.io.PrintStream#print(Ljava/lang/String;)V*
+
+%34java.io.PrintStream*
+Ingresar coordenada en Y: 2print(Ljava/lang/String;)¾»
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java( (("
+
+%36int"java.util.Scanner#nextInt()I*
+
+scanjava.util.Scanner2	nextInt()îë
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java) )('
+%37void"+cs_utec.cs2901.Buscaminas#turnoJugador(II)V*$
+"
+juegocs_utec.cs2901.Buscaminas*
+""*
+""2turnoJugador(II)ÒÏ
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java* *( 
+%38void"%cs_utec.cs2901.Buscaminas#haGanado()V*$
+"
+juegocs_utec.cs2901.Buscaminas2
+haGanado()ÜÙ
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java+ +(%
+%39void"*cs_utec.cs2901.Buscaminas#detectarMinas()V*$
+"
+juegocs_utec.cs2901.Buscaminas2detectarMinas()âß
+g
+]/home/piero/Downloads/buscaminas-side-project-ttt/src/main/java/cs_utec/cs2901/Ejecucion.java, ,((
+%40void"-cs_utec.cs2901.Buscaminas#actualizarMatriz()V*$
+"
+juegocs_utec.cs2901.Buscaminas2actualizarMatriz()*
+7
+0B"
+cs_utec.cs2901.Ejecucion

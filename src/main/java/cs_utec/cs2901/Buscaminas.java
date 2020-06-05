@@ -1,19 +1,18 @@
 package cs_utec.cs2901;
 
-public class Buscaminas{
-    public String[][] field = new String[10][10];
-    public String[][] display = new String[10][10];
-    public Boolean isDone = false;
-    public Boolean isWin = false;
+import java.util.Random;
 
-    private final String unknown = "   ";
-    private final String mine = " * ";
-    private final String empty = "   ";
+public class Buscaminas{
+    static final String[][] field = new String[10][10];
+    static final String[][] display = new String[10][10];
+    static Boolean isDone = false;
+    static Boolean isWin = false;
+
+    static final String unknown = "   ";
+    static final String mine = " * ";
+    static final String empty = "   ";
 
     public Buscaminas(){
-        int row = 0;
-        int column = 0;
-
         for(int x = 0; x < field.length; x++){
             for(int y = 0; y < field[0].length; y++){
                 if((x == 0 || x == field.length - 1)||(y == 0 || y == field[0].length - 1)){
@@ -47,17 +46,15 @@ public class Buscaminas{
     public void generarMinas(int n){
         for(int m = 0; m < n; m++){
             while(true){
-                int x, y;
-                x = (int)((field.length-1)*Math.random());
-                y = (int)((field[0].length-1)*Math.random());
+                int x;
+                int y;
+                Random ran = new Random();
+                x = ran.nextInt(field.length);
+                y = ran.nextInt(field[0].length);
 
-                if(x >= 0 && x <= (field.length-1)){
-                    if(y >= 0 && y <= (field[0].length-1)){
-                        if(!field[x][y].equals(mine)){
-                            field[x][y] = mine;
-                            break;
-                        }
-                    }
+                if(x >= 0 && x <= (field.length-1) && y >= 0 && y <= (field[0].length-1) && !field[x][y].equals(mine)){
+                    field[x][y] = mine;
+                    break;
                 }
             }
         }

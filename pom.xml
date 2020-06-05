@@ -10,6 +10,10 @@
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
+    <sonar.projectKey>cs2901-2020-1_buscaminas-side-project-ttt</sonar.projectKey>
+    <sonar.organization>cs2901-2020-1</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>d28c21a7fd454b227512c8707a09b3585e6e7bb7</sonar.login>
   </properties>
   <dependencies>
     <dependency>

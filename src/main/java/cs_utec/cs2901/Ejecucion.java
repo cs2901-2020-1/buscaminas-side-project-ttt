@@ -4,13 +4,16 @@ import java.util.Scanner;
 
 public class Ejecucion{
 
+    private Ejecucion() {}
+
     public static void correrJuego(){
         Buscaminas juego = new Buscaminas();
         juego.generarMinas(25);
         juego.actualizarMatriz();
         Scanner scan = new Scanner(System.in);
 
-        int x, y;
+        int x;
+        int y;
         System.out.print("Ingresar coordenada en X: ");
         x = scan.nextInt();
         System.out.print("Ingresar coordenada en Y: ");
@@ -18,7 +21,7 @@ public class Ejecucion{
 
         if(juego.obtenerCasilla(x, y).equals("   ")){
             juego.generarMinas(1);
-            juego.field[x][y] = "   ";
+            Buscaminas.field[x][y] = "   ";
         }
 
         juego.inicializar(x,y);
@@ -43,7 +46,6 @@ public class Ejecucion{
                 juego.detectarMinas();
                 juego.actualizarMatriz();
             }
-
         }
     }
 }
